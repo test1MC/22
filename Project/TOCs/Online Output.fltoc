@@ -12,13 +12,11 @@
       Link="/Content/Renamed/Whats New.htm" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/B_Links and Lists/LinksAndLists.htm">
+    Title="[%=System.LinkedTitle%]">
     <TocEntry
       Title="[%=System.LinkedTitle%]" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Links and Lists/Lists.htm" />
+      Title="[%=System.LinkedTitle%]" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"

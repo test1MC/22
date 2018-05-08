@@ -59,7 +59,6 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/B_Links and Lists/LinksAndLists.htm"
     PageLayout="/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl"
     PageNumber=""
     PageNumberReset="continue"
@@ -74,8 +73,7 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Links and Lists/Lists.htm"></TocEntry>
+      Title="[%=System.LinkedTitle%]"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"

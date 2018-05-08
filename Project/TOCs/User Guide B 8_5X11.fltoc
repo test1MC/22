@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -59,7 +59,6 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/B_Links and Lists/Lists.htm"
     PageLayout="/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl"
     PageNumber=""
     PageNumberReset="continue"
