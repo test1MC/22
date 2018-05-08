@@ -15,8 +15,7 @@
     Title="[%=System.LinkedTitle%]"
     Link="/Content/B_Links and Lists/LinksAndLists.htm">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Links and Lists/Links.htm" />
+      Title="[%=System.LinkedTitle%]" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/B_Links and Lists/Lists.htm" />
